@@ -4,6 +4,10 @@ This is the repository for the collection of papers on game theory for satellite
 If you find this repository helpful, you may consider cite our relevant work:
 * Coming soon
 
+**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.576).
+* Special issue website: [https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT](https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT)
+* Deadline for manuscript submissions: **31 August 2023**.
+
 # 2022
 ## Journal
 * Ding H, Zhu S, Meng S, et al. Matching-Based Resource Allocation for Satellite–Ground Network[J]. Sensors, 2022, 22(21): 8436. [Link](https://www.mdpi.com/1922322)
