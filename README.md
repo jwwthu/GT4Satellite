@@ -2,7 +2,7 @@
 This is the repository for the collection of papers on game theory for satellite communication.
 
 If you find this repository helpful, you may consider cite our relevant work:
-* Coming soon
+* Jiang W. <b>Software defined satellite networks: A survey[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000299)
 
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.576).
 * Special issue website: [https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT](https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT)
