@@ -12,6 +12,8 @@ If you find this repository helpful, you may consider cite our relevant work:
 * Special issue website: [https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8](https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8)
 * Deadline for manuscript submissions: **3 October 2023**.
 
+**Advertisement**: 欢迎大家关注我的微信公众号或知乎账号，都叫“网络与通信”，会定期推送网络与通信领域会议截止日期汇总、开源代码论文汇总等推文。
+
 # 2022
 ## Journal
 * Ding H, Zhu S, Meng S, et al. Matching-Based Resource Allocation for Satellite–Ground Network[J]. Sensors, 2022, 22(21): 8436. [Link](https://www.mdpi.com/1922322)
