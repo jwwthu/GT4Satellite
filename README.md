@@ -2,13 +2,10 @@
 This is the repository for the collection of papers on game theory for satellite communication.
 
 If you find this repository helpful, you may consider cite our relevant work:
+* Jiang W, et al. <b>Federated split learning for sequential data in satellite-terrestrial integrated networks[J]</b>. Information Fusion, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S1566253523004578)
 * Jiang W. <b>Software defined satellite networks: A survey[J]</b>. Digital Communications and Networks, 2023. [Link](https://www.sciencedirect.com/science/article/pii/S2352864823000299)
 * Jiang W, et al. <b>Network Simulators for Satellite-Terrestrial Integrated Networks: A Survey</b>. IEEE Access, 2023. [Link](https://ieeexplore.ieee.org/document/10244011)
 * Jiang W, et al. <b>Multi-Domain Network Slicing in Satellite–Terrestrial Integrated Networks: A Multi-Sided Ascending-Price Auction Approach</b>. Aerospace 2023, 10(10), 830. [Link](https://www.mdpi.com/2226-4310/10/10/830)
-  
-**Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Satellite Based IoT Networks for Emerging Applications" for Sensors (SCI-indexed, ISSN 1424-8220, Impact Factor: 3.847).
-* Special issue website: [https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT](https://www.mdpi.com/journal/sensors/special_issues/Satellite_IOT)
-* Deadline for manuscript submissions: **31 August 2023**.
 
 **Advertisement**: We would like to cordially invite you to submit a paper to our special issue on "Sustainability of Large Satellite Constellations for 5G/B5G" for Sustainability (SSCI/SCI-indexed, ISSN 2071-1050, Impact Factor: 3.889).
 * Special issue website: [https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8](https://www.mdpi.com/journal/sustainability/special_issues/WVY4B7I6B8)
